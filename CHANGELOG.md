@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.1](https://github.com/tserram23/commitzen-test/compare/v0.2.0...v0.2.1) (2021-05-13)
+
+
+### Bug Fixes
+
+* removed robot.txt ([b5a152c](https://github.com/tserram23/commitzen-test/commitsb5a152c4de5d49a40ec079338c004d7026dc83dc))
+
 ## [0.2.0](https://github.com/tserram23/commitzen-test/compare/v0.1.0...v0.2.0) (2021-05-13)
 
 
